@@ -1742,8 +1742,66 @@
       "psplus": false,
       "tags": [],
       "note": ""
+    },
+    {
+      "id": "30005",
+      "scrapetime": 1793541872458,
+      "title": "Darksiders II",
+      "image": "https://img.psnprofiles.com/game/l/30005/42b6a5d4-cae9-4965-961f-ea759cf63a22.png",
+      "url": "https://psnprofiles.com/trophies/30005-darksiders-ii",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 6,
+        "bronze": 40
+      },
+      "dlccount": 0,
+      "platinumpct": 16.04,
+      "completepct": 16.04,
+      "timestamp": 1793541872458,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "41480",
+      "scrapetime": 1793541874546,
+      "title": "Darksiders",
+      "image": "https://img.psnprofiles.com/game/l/41480/166473ab-07d8-42a5-a3af-31c029f3de36.png",
+      "url": "https://psnprofiles.com/trophies/41480-darksiders",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 13,
+        "bronze": 26
+      },
+      "dlccount": 0,
+      "platinumpct": 29.24,
+      "completepct": 29.24,
+      "timestamp": 1793541874546,
+      "psplus": false,
+      "tags": [],
+      "note": ""
     }
   ],
   "removeStartedGames": false,
-  "id": "af0c55e4-49f9-422e-a6d5-4799ec2eeb61"
+  "id": "730bdded-f219-411a-b6cd-9cbd9904b061"
 }
