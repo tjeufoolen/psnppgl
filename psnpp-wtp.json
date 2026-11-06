@@ -97,7 +97,7 @@
     },
     {
       "id": "36943",
-      "scrapetime": 1792090705307,
+      "scrapetime": 1793914841852,
       "title": "We Were Here Together",
       "image": "https://img.psnprofiles.com/game/l/36943/da1f53bd-6f38-4045-a0ad-1671a3d550fe.png",
       "url": "https://psnprofiles.com/trophies/36943-we-were-here-together",
@@ -117,8 +117,8 @@
         "bronze": 6
       },
       "dlccount": 0,
-      "platinumpct": 59.35,
-      "completepct": 59.35,
+      "platinumpct": 58.71,
+      "completepct": 58.71,
       "timestamp": 1790108439901,
       "psplus": false,
       "tags": [],
@@ -1481,7 +1481,7 @@
     },
     {
       "id": "42709",
-      "scrapetime": 1792090791427,
+      "scrapetime": 1793975421447,
       "title": "Toem 2",
       "image": "https://img.psnprofiles.com/game/l/42709/bca00ed8-86df-44be-b1f8-b2ccae28e8a6.png",
       "url": "https://psnprofiles.com/trophies/42709-toem-2",
@@ -1501,8 +1501,8 @@
         "bronze": 8
       },
       "dlccount": 0,
-      "platinumpct": 76.2,
-      "completepct": 76.2,
+      "platinumpct": 82.8,
+      "completepct": 82.8,
       "timestamp": 1790967927441,
       "psplus": false,
       "tags": [],
@@ -1797,6 +1797,209 @@
       "platinumpct": 29.24,
       "completepct": 29.24,
       "timestamp": 1793541874546,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "35693",
+      "scrapetime": 1793975012004,
+      "title": "Mafia: The Old Country",
+      "image": "https://img.psnprofiles.com/game/l/35693/20b55b7e-702c-4f96-a3bb-11384a30459e.png",
+      "url": "https://psnprofiles.com/trophies/35693-mafia-the-old-country",
+      "points": 1635,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 12,
+        "bronze": 47
+      },
+      "dlccount": 0,
+      "platinumpct": 32.96,
+      "completepct": 2.87,
+      "timestamp": 1793975011394,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "8161",
+      "scrapetime": 1793975464478,
+      "title": "Shadow of the Tomb Raider",
+      "image": "https://img.psnprofiles.com/game/l/8161/00ddd2a6-a54e-464a-a0cf-6ab9f499c27a.png",
+      "url": "https://psnprofiles.com/trophies/8161-shadow-of-the-tomb-raider",
+      "points": 2520,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 9,
+        "bronze": 82
+      },
+      "dlccount": 0,
+      "platinumpct": 9.76,
+      "completepct": 2.71,
+      "timestamp": 1793975463922,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "2373",
+      "scrapetime": 1793975475355,
+      "title": "Tomb Raider: Definitive Edition",
+      "image": "https://img.psnprofiles.com/game/l/2373/d7332f2c-f511-4e5f-928b-ae7988bff2d9.png",
+      "url": "https://psnprofiles.com/trophies/2373-tomb-raider-definitive-edition",
+      "points": 1305,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 7,
+        "bronze": 41
+      },
+      "dlccount": 0,
+      "platinumpct": 5.47,
+      "completepct": 5.47,
+      "timestamp": 1793975475355,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "14598",
+      "scrapetime": 1793975541709,
+      "title": "Grand Theft Auto III",
+      "image": "https://img.psnprofiles.com/game/l/14598/8fe2c338-068c-4795-bd26-2693431fb5cf.png",
+      "url": "https://psnprofiles.com/trophies/14598-grand-theft-auto-iii",
+      "points": 1335,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 11,
+        "bronze": 11
+      },
+      "dlccount": 0,
+      "platinumpct": 16.29,
+      "completepct": 16.29,
+      "timestamp": 1793975541709,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "14599",
+      "scrapetime": 1793975542827,
+      "title": "Grand Theft Auto: Vice City",
+      "image": "https://img.psnprofiles.com/game/l/14599/1f8d468c-0ef2-4d6c-b833-5748f1973316.png",
+      "url": "https://psnprofiles.com/trophies/14599-grand-theft-auto-vice-city",
+      "points": 1305,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 9,
+        "bronze": 19
+      },
+      "dlccount": 0,
+      "platinumpct": 15.24,
+      "completepct": 15.24,
+      "timestamp": 1793975542827,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "14601",
+      "scrapetime": 1793975545797,
+      "title": "Grand Theft Auto: San Andreas",
+      "image": "https://img.psnprofiles.com/game/l/14601/866a8d44-4a9b-4af0-b87d-d19f96184adc.png",
+      "url": "https://psnprofiles.com/trophies/14601-grand-theft-auto-san-andreas",
+      "points": 1305,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 8,
+        "bronze": 21
+      },
+      "dlccount": 0,
+      "platinumpct": 13.18,
+      "completepct": 13.18,
+      "timestamp": 1793975545797,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "12",
+      "scrapetime": 1793975548561,
+      "title": "Grand Theft Auto IV",
+      "image": "https://img.psnprofiles.com/game/l/12/086559ba-4ee8-403e-95e2-5be8c8a8f2a4.png",
+      "url": "https://psnprofiles.com/trophies/12-grand-theft-auto-iv",
+      "points": 1575,
+      "platforms": {
+        "ps5": false,
+        "ps4": false,
+        "ps3": true,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 5,
+        "bronze": 57
+      },
+      "dlccount": 0,
+      "platinumpct": 0.98,
+      "completepct": 0.51,
+      "timestamp": 1793975548561,
       "psplus": false,
       "tags": [],
       "note": ""

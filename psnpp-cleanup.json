@@ -6,7 +6,7 @@
   "direction": "ascending",
   "removeGames": "completed",
   "note": "Cleanup (100% and/or DLC)",
-  "url": "",
+  "url": "https://raw.githubusercontent.com/tjeufoolen/psnppgl/refs/heads/main/psnpp-cleanup.json",
   "games": [
     {
       "id": "14520",
@@ -818,6 +818,1312 @@
       "platinumpct": 33.49,
       "completepct": 26.83,
       "timestamp": 1792090652022,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "15720",
+      "scrapetime": 1793975154320,
+      "title": "Grand Theft Auto V",
+      "image": "https://img.psnprofiles.com/game/l/15720/a98228a2-f3f1-4f99-ae5e-e1ad1ed1d748.png",
+      "url": "https://psnprofiles.com/trophies/15720-grand-theft-auto-v",
+      "points": 1905,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 15,
+        "bronze": 59
+      },
+      "dlccount": 0,
+      "platinumpct": 5.36,
+      "completepct": 0.82,
+      "timestamp": 1793975153590,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "36943",
+      "scrapetime": 1793975161924,
+      "title": "We Were Here Together",
+      "image": "https://img.psnprofiles.com/game/l/36943/da1f53bd-6f38-4045-a0ad-1671a3d550fe.png",
+      "url": "https://psnprofiles.com/trophies/36943-we-were-here-together",
+      "points": 1320,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 8,
+        "silver": 7,
+        "bronze": 6
+      },
+      "dlccount": 0,
+      "platinumpct": 58.71,
+      "completepct": 58.71,
+      "timestamp": 1793975161924,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "18848",
+      "scrapetime": 1793975163640,
+      "title": "Call of Duty HQ",
+      "image": "https://img.psnprofiles.com/game/l/18848/59198c4c-585e-462e-9df5-53ce08c95fa4.png",
+      "url": "https://psnprofiles.com/trophies/18848-call-of-duty-hq",
+      "points": 5460,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 24,
+        "silver": 49,
+        "bronze": 102
+      },
+      "dlccount": 0,
+      "platinumpct": 3.39,
+      "completepct": 0.08,
+      "timestamp": 1793975163640,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "19260",
+      "scrapetime": 1793975169069,
+      "title": "God of War Ragnarök",
+      "image": "https://img.psnprofiles.com/game/l/19260/484f489a-19bd-46bb-8c65-82741c3674e8.png",
+      "url": "https://psnprofiles.com/trophies/19260-god-of-war-ragnarök",
+      "points": 1545,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": true
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 16,
+        "bronze": 27
+      },
+      "dlccount": 0,
+      "platinumpct": 40.81,
+      "completepct": 13.55,
+      "timestamp": 1793975169069,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "41278",
+      "scrapetime": 1793975177976,
+      "title": "Saros",
+      "image": "https://img.psnprofiles.com/game/l/41278/9b6c9fba-e699-4031-9418-34f215434acd.png",
+      "url": "https://psnprofiles.com/trophies/41278-saros",
+      "points": 1695,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 19,
+        "bronze": 37
+      },
+      "dlccount": 0,
+      "platinumpct": 40.79,
+      "completepct": 0.92,
+      "timestamp": 1793975177976,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "19432",
+      "scrapetime": 1793975183409,
+      "title": "Need for Speed Unbound",
+      "image": "https://img.psnprofiles.com/game/l/19432/3000f722-ab54-4651-870e-868315d67987.png",
+      "url": "https://psnprofiles.com/trophies/19432-need-for-speed-unbound",
+      "points": 1335,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 8,
+        "bronze": 29
+      },
+      "dlccount": 0,
+      "platinumpct": 9.45,
+      "completepct": 9.45,
+      "timestamp": 1793975183409,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "15576",
+      "scrapetime": 1793975184263,
+      "title": "Gran Turismo 7",
+      "image": "https://img.psnprofiles.com/game/l/15576/15d45c61-5e93-4a3e-8ce8-d8390e4fff9d.png",
+      "url": "https://psnprofiles.com/trophies/15576-gran-turismo-7",
+      "points": 1305,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 4,
+        "bronze": 47
+      },
+      "dlccount": 0,
+      "platinumpct": 8.25,
+      "completepct": 8.25,
+      "timestamp": 1793975184263,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "3679",
+      "scrapetime": 1793975191286,
+      "title": "Rocket League",
+      "image": "https://img.psnprofiles.com/game/l/3679/a37aed37-fbec-4c70-bf2f-32c346a6d181.png",
+      "url": "https://psnprofiles.com/trophies/3679-rocket-league",
+      "points": 2865,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 12,
+        "silver": 24,
+        "bronze": 51
+      },
+      "dlccount": 0,
+      "platinumpct": 17.53,
+      "completepct": 1.58,
+      "timestamp": 1793975191286,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "13113",
+      "scrapetime": 1793975193128,
+      "title": "Minecraft",
+      "image": "https://img.psnprofiles.com/game/l/13113/010e07ea-85aa-4983-94f2-edac9fe7a169.png",
+      "url": "https://psnprofiles.com/trophies/13113-minecraft-set-2",
+      "points": 720,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 0,
+        "gold": 4,
+        "silver": 5,
+        "bronze": 14
+      },
+      "dlccount": 0,
+      "completepct": 0.1,
+      "timestamp": 1793975193128,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "38090",
+      "scrapetime": 1793975200913,
+      "title": "Call of Duty: Black Ops 7",
+      "image": "https://img.psnprofiles.com/game/l/38090/31719d4d-751e-4b7a-8800-8b4edac81754.png",
+      "url": "https://psnprofiles.com/trophies/38090-call-of-duty-black-ops-7",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 10,
+        "bronze": 38
+      },
+      "dlccount": 0,
+      "platinumpct": 14.34,
+      "completepct": 14.34,
+      "timestamp": 1793975200913,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "29135",
+      "scrapetime": 1793975214734,
+      "title": "Warhammer 40,000: Space Marine 2",
+      "image": "https://img.psnprofiles.com/game/l/29135/c31ce5fd-eea4-454b-8bb3-601c0dae637c.png",
+      "url": "https://psnprofiles.com/trophies/29135-warhammer-40000-space-marine-2",
+      "points": 1335,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 10,
+        "bronze": 37
+      },
+      "dlccount": 0,
+      "platinumpct": 11.55,
+      "completepct": 11.55,
+      "timestamp": 1793975214734,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "25779",
+      "scrapetime": 1793975220171,
+      "title": "Helldivers 2",
+      "image": "https://img.psnprofiles.com/game/l/25779/b4f586a4-0d5c-4c5d-a105-e12a0d8fc21b.png",
+      "url": "https://psnprofiles.com/trophies/25779-helldivers-2",
+      "points": 1260,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 11,
+        "bronze": 24
+      },
+      "dlccount": 0,
+      "platinumpct": 14.76,
+      "completepct": 14.76,
+      "timestamp": 1793975220171,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "37863",
+      "scrapetime": 1793975221504,
+      "title": "ARC Raiders",
+      "image": "https://img.psnprofiles.com/game/l/37863/f7199f3c-ae87-439b-ad14-14715346b806.png",
+      "url": "https://psnprofiles.com/trophies/37863-arc-raiders",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 5,
+        "bronze": 42
+      },
+      "dlccount": 0,
+      "platinumpct": 8.01,
+      "completepct": 8.01,
+      "timestamp": 1793975221504,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "32598",
+      "scrapetime": 1793975226510,
+      "title": "Assassin's Creed Shadows",
+      "image": "https://img.psnprofiles.com/game/l/32598/c869fae8-cec3-45b0-a1ce-9116f335b416.png",
+      "url": "https://psnprofiles.com/trophies/32598-assassins-creed-shadows",
+      "points": 1695,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 13,
+        "bronze": 61
+      },
+      "dlccount": 0,
+      "platinumpct": 33.42,
+      "completepct": 1.69,
+      "timestamp": 1793975226510,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "8261",
+      "scrapetime": 1793975236596,
+      "title": "Astro Bot Rescue Mission",
+      "image": "https://img.psnprofiles.com/game/l/8261/ae506e4b-0e93-43b8-af7d-0456ef6009f9.png",
+      "url": "https://psnprofiles.com/trophies/8261-astro-bot-rescue-mission",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": true,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 19,
+        "bronze": 14
+      },
+      "dlccount": 0,
+      "platinumpct": 12.72,
+      "completepct": 12.73,
+      "timestamp": 1793975236596,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "11781",
+      "scrapetime": 1793975239105,
+      "title": "Borderlands 3",
+      "image": "https://img.psnprofiles.com/game/l/11781/e45bc70a-8946-4b82-9c8a-1e380b787753.png",
+      "url": "https://psnprofiles.com/trophies/11781-borderlands-3",
+      "points": 2325,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 7,
+        "silver": 20,
+        "bronze": 53
+      },
+      "dlccount": 0,
+      "platinumpct": 11.61,
+      "completepct": 3.06,
+      "timestamp": 1793975239105,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "10809",
+      "scrapetime": 1793975242281,
+      "title": "Golf With Your Friends",
+      "image": "https://img.psnprofiles.com/game/l/10809/a8846284-c11d-418f-bcc6-238fcbbc5f21.png",
+      "url": "https://psnprofiles.com/trophies/10809-golf-with-your-friends",
+      "points": 2010,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 7,
+        "silver": 24,
+        "bronze": 24
+      },
+      "dlccount": 0,
+      "platinumpct": 5.21,
+      "completepct": 0.85,
+      "timestamp": 1793975242281,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "17623",
+      "scrapetime": 1793975247107,
+      "title": "Saints Row",
+      "image": "https://img.psnprofiles.com/game/l/17623/ce75d161-2e50-427f-b330-5067ae1961b4.png",
+      "url": "https://psnprofiles.com/trophies/17623-saints-row",
+      "points": 1800,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 11,
+        "bronze": 48
+      },
+      "dlccount": 0,
+      "platinumpct": 9.89,
+      "completepct": 2.42,
+      "timestamp": 1793975247107,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "11885",
+      "scrapetime": 1793975254990,
+      "title": "Immortals Fenyx Rising",
+      "image": "https://img.psnprofiles.com/game/l/11885/c71e84f4-3ea7-4fad-aa78-59e7cddb7b46.png",
+      "url": "https://psnprofiles.com/trophies/11885-immortals-fenyx-rising",
+      "points": 1935,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 16,
+        "bronze": 47
+      },
+      "dlccount": 0,
+      "platinumpct": 22.54,
+      "completepct": 3.54,
+      "timestamp": 1793975254990,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "15450",
+      "scrapetime": 1793975256967,
+      "title": "Horizon Forbidden West",
+      "image": "https://img.psnprofiles.com/game/l/15450/f0b598ab-c559-4d9c-94dd-9d8a1210b988.png",
+      "url": "https://psnprofiles.com/trophies/15450-horizon-forbidden-west",
+      "points": 1785,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 10,
+        "bronze": 67
+      },
+      "dlccount": 0,
+      "platinumpct": 34.95,
+      "completepct": 3.33,
+      "timestamp": 1793975256967,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "23918",
+      "scrapetime": 1793975257042,
+      "title": "Marvel's Spider-Man 2",
+      "image": "https://img.psnprofiles.com/game/l/23918/b6c044ff-8f3b-4673-8899-0b8a656fbd44.png",
+      "url": "https://psnprofiles.com/trophies/23918-marvels-spider-man-2",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": true
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 18,
+        "bronze": 22
+      },
+      "dlccount": 0,
+      "platinumpct": 63.55,
+      "completepct": 13.81,
+      "timestamp": 1793975257042,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "9368",
+      "scrapetime": 1793975269004,
+      "title": "Forager",
+      "image": "https://img.psnprofiles.com/game/l/9368/4878f622-8501-400d-9460-41b8bb2464d7.png",
+      "url": "https://psnprofiles.com/trophies/9368-forager",
+      "points": 345,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 23
+      },
+      "region": "EU",
+      "dlccount": 0,
+      "completepct": 0.97,
+      "timestamp": 1793975269004,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "4365",
+      "scrapetime": 1793975286315,
+      "title": "Far Cry Primal",
+      "image": "https://img.psnprofiles.com/game/l/4365/ce728fcf-ff4f-46f7-9fe9-7c2aa35c76a9.png",
+      "url": "https://psnprofiles.com/trophies/4365-far-cry-primal",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 10,
+        "bronze": 38
+      },
+      "dlccount": 0,
+      "platinumpct": 24.18,
+      "completepct": 24.18,
+      "timestamp": 1793975286315,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "10842",
+      "scrapetime": 1793975289998,
+      "title": "Minecraft Dungeons",
+      "image": "https://img.psnprofiles.com/game/l/10842/c959fe13-6466-44c6-aa4a-e589119f57a5.png",
+      "url": "https://psnprofiles.com/trophies/10842-minecraft-dungeons",
+      "points": 2895,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 7,
+        "silver": 34,
+        "bronze": 63
+      },
+      "dlccount": 0,
+      "platinumpct": 16.63,
+      "completepct": 0.82,
+      "timestamp": 1793975289998,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "19593",
+      "scrapetime": 1793975292867,
+      "title": "The Callisto Protocol",
+      "image": "https://img.psnprofiles.com/game/l/19593/d3a48352-a285-417b-9d08-2ec0f4c506c4.png",
+      "url": "https://psnprofiles.com/trophies/19593-the-callisto-protocol",
+      "points": 1980,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 11,
+        "silver": 11,
+        "bronze": 24
+      },
+      "dlccount": 0,
+      "platinumpct": 19.99,
+      "completepct": 1.05,
+      "timestamp": 1793975292867,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "11780",
+      "scrapetime": 1793975294814,
+      "title": "Watch Dogs: Legion",
+      "image": "https://img.psnprofiles.com/game/l/11780/835fd345-5ae6-4a6a-883c-296f51e4aafd.png",
+      "url": "https://psnprofiles.com/trophies/11780-watch-dogs-legion",
+      "points": 1515,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 22,
+        "bronze": 25
+      },
+      "dlccount": 0,
+      "platinumpct": 11.92,
+      "completepct": 1.18,
+      "timestamp": 1793975294814,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "10246",
+      "scrapetime": 1793975297989,
+      "title": "Journey to the Savage Planet",
+      "image": "https://img.psnprofiles.com/game/l/10246/e03ce7ce-7570-4b54-afc8-68ddbf1bf897.png",
+      "url": "https://psnprofiles.com/trophies/10246-journey-to-the-savage-planet",
+      "points": 1590,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 15,
+        "bronze": 32
+      },
+      "dlccount": 0,
+      "platinumpct": 6.54,
+      "completepct": 1.11,
+      "timestamp": 1793975297989,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "14007",
+      "scrapetime": 1793975301694,
+      "title": "Hot Wheels Unleashed",
+      "image": "https://img.psnprofiles.com/game/l/14007/6d1a9b27-5fe5-4ec4-ab88-404c9115c170.png",
+      "url": "https://psnprofiles.com/trophies/14007-hot-wheels-unleashed",
+      "points": 1485,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 6,
+        "bronze": 43
+      },
+      "dlccount": 0,
+      "platinumpct": 6.44,
+      "completepct": 2.08,
+      "timestamp": 1793975301694,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "17373",
+      "scrapetime": 1793975303420,
+      "title": "Cult of the Lamb",
+      "image": "https://img.psnprofiles.com/game/l/17373/c226bd5c-358a-4319-9f1a-5fe6710b1327.png",
+      "url": "https://psnprofiles.com/trophies/17373-cult-of-the-lamb",
+      "points": 1755,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 21,
+        "bronze": 31
+      },
+      "dlccount": 0,
+      "platinumpct": 15.51,
+      "completepct": 0.79,
+      "timestamp": 1793975303420,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "65",
+      "scrapetime": 1793975304948,
+      "title": "Wanted: Weapons of Fate",
+      "image": "https://img.psnprofiles.com/game/l/65/bd5da78b-07af-4db7-bdcb-bef18a0613ae.png",
+      "url": "https://psnprofiles.com/trophies/65-wanted-weapons-of-fate",
+      "points": 1335,
+      "platforms": {
+        "ps5": false,
+        "ps4": false,
+        "ps3": true,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 9,
+        "bronze": 39
+      },
+      "dlccount": 0,
+      "platinumpct": 17.85,
+      "completepct": 17.85,
+      "timestamp": 1793975304948,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "15898",
+      "scrapetime": 1793975312532,
+      "title": "Lawn Mowing Simulator",
+      "image": "https://img.psnprofiles.com/game/l/15898/0df8edae-3b2c-488b-9635-e84f4031ba5b.png",
+      "url": "https://psnprofiles.com/trophies/15898-lawn-mowing-simulator",
+      "points": 1530,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 9,
+        "bronze": 46
+      },
+      "dlccount": 0,
+      "platinumpct": 2.71,
+      "completepct": 0.47,
+      "timestamp": 1793975312533,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "14436",
+      "scrapetime": 1793975322765,
+      "title": "The Smurfs: Mission Vileaf",
+      "image": "https://img.psnprofiles.com/game/l/14436/2755bc41-c14e-4e7f-b8d9-d90c4701aef3.png",
+      "url": "https://psnprofiles.com/trophies/14436-the-smurfs-mission-vileaf",
+      "points": 1305,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 9,
+        "bronze": 13
+      },
+      "dlccount": 0,
+      "platinumpct": 28.05,
+      "completepct": 28.05,
+      "timestamp": 1793975322765,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "14116",
+      "scrapetime": 1793975324917,
+      "title": "Ghostrunner",
+      "image": "https://img.psnprofiles.com/game/l/14116/20239688-054f-4e51-9cca-dbf0b4b42633.png",
+      "url": "https://psnprofiles.com/trophies/14116-ghostrunner",
+      "points": 1545,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 19,
+        "bronze": 21
+      },
+      "dlccount": 0,
+      "platinumpct": 9.77,
+      "completepct": 1.46,
+      "timestamp": 1793975324917,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "2249",
+      "scrapetime": 1793975342529,
+      "title": "Knack",
+      "image": "https://img.psnprofiles.com/game/l/2249/275feb7e-3eaf-4515-8688-67ecc60d3420.png",
+      "url": "https://psnprofiles.com/trophies/2249-knack",
+      "points": 1350,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 9,
+        "bronze": 28
+      },
+      "dlccount": 0,
+      "platinumpct": 4.65,
+      "completepct": 4.65,
+      "timestamp": 1793975342529,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "13005",
+      "scrapetime": 1793975378892,
+      "title": "Biomutant",
+      "image": "https://img.psnprofiles.com/game/l/13005/d614bbac-9e40-4e79-9e83-edeacc2e86c7.png",
+      "url": "https://psnprofiles.com/trophies/13005-biomutant",
+      "points": 1305,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 6,
+        "bronze": 37
+      },
+      "dlccount": 0,
+      "platinumpct": 12.68,
+      "completepct": 12.68,
+      "timestamp": 1793975378892,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "8317",
+      "scrapetime": 1793975381756,
+      "title": "LEGO DC Super-Villains",
+      "image": "https://img.psnprofiles.com/game/l/8317/726aa665-aa55-488c-bdf3-19ad48597199.png",
+      "url": "https://psnprofiles.com/trophies/8317-lego-dc-super-villains",
+      "points": 1800,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 3,
+        "silver": 10,
+        "bronze": 62
+      },
+      "region": "EU",
+      "dlccount": 0,
+      "platinumpct": 12.39,
+      "completepct": 5.48,
+      "timestamp": 1793975381756,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "13954",
+      "scrapetime": 1793975382775,
+      "title": "Deathloop",
+      "image": "https://img.psnprofiles.com/game/l/13954/dbd0d691-658b-4423-a2e9-85321a474a33.png",
+      "url": "https://psnprofiles.com/trophies/13954-deathloop",
+      "points": 1410,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 11,
+        "bronze": 46
+      },
+      "dlccount": 0,
+      "platinumpct": 11.96,
+      "completepct": 6.05,
+      "timestamp": 1793975382775,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "12432",
+      "scrapetime": 1793975384938,
+      "title": "Crash Bandicoot 4: It's About Time",
+      "image": "https://img.psnprofiles.com/game/l/12432/a8e4c8d8-b4bf-4e01-bee4-ca74f07c4d37.png",
+      "url": "https://psnprofiles.com/trophies/12432-crash-bandicoot-4-its-about-time",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 9,
+        "bronze": 40
+      },
+      "dlccount": 0,
+      "platinumpct": 4.37,
+      "completepct": 4.37,
+      "timestamp": 1793975384938,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "13717",
+      "scrapetime": 1793975386868,
+      "title": "Sniper Ghost Warrior Contracts 2",
+      "image": "https://img.psnprofiles.com/game/l/13717/9d75d2f1-1e12-438d-801c-e538504e770d.png",
+      "url": "https://psnprofiles.com/trophies/13717-sniper-ghost-warrior-contracts-2",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 17,
+        "bronze": 24
+      },
+      "region": "EU",
+      "dlccount": 0,
+      "platinumpct": 8.68,
+      "completepct": 8.68,
+      "timestamp": 1793975386868,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "11322",
+      "scrapetime": 1793975390662,
+      "title": "Marvel's Avengers",
+      "image": "https://img.psnprofiles.com/game/l/11322/aeadb59d-b2d5-448c-9e7a-578d146cd5a5.png",
+      "url": "https://psnprofiles.com/trophies/11322-marvels-avengers",
+      "points": 1305,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 2,
+        "silver": 7,
+        "bronze": 41
+      },
+      "dlccount": 0,
+      "platinumpct": 4.92,
+      "completepct": 4.92,
+      "timestamp": 1793975390662,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "3938",
+      "scrapetime": 1793975393113,
+      "title": "Uncharted: Drake's Fortune Remastered",
+      "image": "https://img.psnprofiles.com/game/l/3938/0b4ceb78-e366-483c-a503-ff73d82c9a07.png",
+      "url": "https://psnprofiles.com/trophies/3938-uncharted-drakes-fortune-remastered",
+      "points": 1515,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 4,
+        "silver": 8,
+        "bronze": 41
+      },
+      "dlccount": 0,
+      "platinumpct": 14.27,
+      "completepct": 2.86,
+      "timestamp": 1793975393113,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "6142",
+      "scrapetime": 1793975400537,
+      "title": "Injustice 2",
+      "image": "https://img.psnprofiles.com/game/l/6142/bc9d6c92-41a2-4301-8103-1d921f82b8ce.png",
+      "url": "https://psnprofiles.com/trophies/6142-injustice-2",
+      "points": 1515,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 1,
+        "silver": 2,
+        "bronze": 71
+      },
+      "dlccount": 0,
+      "platinumpct": 1.71,
+      "completepct": 1.02,
+      "timestamp": 1793975400537,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "8143",
+      "scrapetime": 1793975402683,
+      "title": "Marvel's Spider-Man",
+      "image": "https://img.psnprofiles.com/game/l/8143/c4f46ab5-a24f-411b-b1bc-e4da114f6dbf.png",
+      "url": "https://psnprofiles.com/trophies/8143-marvels-spider-man",
+      "points": 1980,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 14,
+        "bronze": 54
+      },
+      "dlccount": 0,
+      "platinumpct": 40.86,
+      "completepct": 8.18,
+      "timestamp": 1793975402683,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "6247",
+      "scrapetime": 1793975404490,
+      "title": "Crash Bandicoot: Warped",
+      "image": "https://img.psnprofiles.com/game/l/6247/c4a268df-dd2c-4102-b0e8-a853b29af416.png",
+      "url": "https://psnprofiles.com/trophies/6247-crash-bandicoot-warped",
+      "points": 1320,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 6,
+        "silver": 12,
+        "bronze": 8
+      },
+      "dlccount": 0,
+      "platinumpct": 9.16,
+      "completepct": 4.57,
+      "timestamp": 1793975404490,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "5891",
+      "scrapetime": 1793975408678,
+      "title": "Tom Clancy's Ghost Recon Wildlands",
+      "image": "https://img.psnprofiles.com/game/l/5891/ffb49c15-7fed-44d4-b85b-7cdbba891ba8.png",
+      "url": "https://psnprofiles.com/trophies/5891-tom-clancys-ghost-recon-wildlands",
+      "points": 1680,
+      "platforms": {
+        "ps5": false,
+        "ps4": true,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 10,
+        "bronze": 42
+      },
+      "dlccount": 0,
+      "platinumpct": 9.26,
+      "completepct": 1.41,
+      "timestamp": 1793975408678,
       "psplus": false,
       "tags": [],
       "note": ""
