@@ -1715,35 +1715,6 @@
       "note": ""
     },
     {
-      "id": "3087",
-      "scrapetime": 1792090411586,
-      "title": "The Wolf Among Us",
-      "image": "https://img.psnprofiles.com/game/l/3087/afb3887e-9a06-49e8-ad05-64545422f60f.png",
-      "url": "https://psnprofiles.com/trophies/3087-the-wolf-among-us",
-      "points": 1275,
-      "platforms": {
-        "ps5": false,
-        "ps4": true,
-        "ps3": false,
-        "psvita": false,
-        "psvr": false,
-        "pc": false
-      },
-      "trophies": {
-        "platinum": 1,
-        "gold": 5,
-        "silver": 5,
-        "bronze": 25
-      },
-      "dlccount": 0,
-      "platinumpct": 54.32,
-      "completepct": 54.33,
-      "timestamp": 1792090411586,
-      "psplus": false,
-      "tags": [],
-      "note": ""
-    },
-    {
       "id": "30005",
       "scrapetime": 1793541872458,
       "title": "Darksiders II",
@@ -2000,6 +1971,35 @@
       "platinumpct": 0.98,
       "completepct": 0.51,
       "timestamp": 1793975548561,
+      "psplus": false,
+      "tags": [],
+      "note": ""
+    },
+    {
+      "id": "43292",
+      "scrapetime": 1793976099297,
+      "title": "The Wolf Among Us Remastered",
+      "image": "https://img.psnprofiles.com/game/l/43292/e54c90f7-2f79-47ac-a89c-cfd5cb21a418.png",
+      "url": "https://psnprofiles.com/trophies/43292-the-wolf-among-us-remastered",
+      "points": 1350,
+      "platforms": {
+        "ps5": true,
+        "ps4": false,
+        "ps3": false,
+        "psvita": false,
+        "psvr": false,
+        "pc": false
+      },
+      "trophies": {
+        "platinum": 1,
+        "gold": 5,
+        "silver": 7,
+        "bronze": 26
+      },
+      "dlccount": 0,
+      "platinumpct": 25.86,
+      "completepct": 25.86,
+      "timestamp": 1793976087003,
       "psplus": false,
       "tags": [],
       "note": ""
